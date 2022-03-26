@@ -1043,3 +1043,11 @@ _Internationalization / L10n / localization / translation_
 
 - [crisp-bigquery](https://github.com/winwiz1/crisp-bigquery) - Full stack Google BigQuery with Express in TypeScript.
 - [react-server-routing-example](https://github.com/mhart/react-server-routing-example) - Universal client/server routing and data with AWS DynamoDB.
+  
+
+### ANIMATION => https://www.framer.com/docs/introduction/
+
+### MATERIAL UI => https://mui.com/components/grid/
+   
+### https://reactjs.org/docs/hooks-effect.html - https://linguinecode.com/post/understanding-react-componentdidmount - https://reactjs.org/docs/react-component.html
+  
