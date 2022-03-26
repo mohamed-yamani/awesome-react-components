@@ -122,6 +122,9 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Static Website Generator](#static-website-generator)
 - [Cloud Solutions](#cloud-solutions)
   - [Databases](#databases)
+  - [ANIMATION => https://www.framer.com/docs/introduction/](#animation--httpswwwframercomdocsintroduction)
+  - [MATERIAL UI => https://mui.com/components/grid/](#material-ui--httpsmuicomcomponentsgrid)
+  - [https://reactjs.org/docs/hooks-effect.html - https://linguinecode.com/post/understanding-react-componentdidmount - https://reactjs.org/docs/react-component.html](#httpsreactjsorgdocshooks-effecthtml---httpslinguinecodecompostunderstanding-react-componentdidmount---httpsreactjsorgdocsreact-componenthtml)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
