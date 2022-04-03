@@ -1054,3 +1054,4 @@ _Internationalization / L10n / localization / translation_
    
 ### https://reactjs.org/docs/hooks-effect.html - https://linguinecode.com/post/understanding-react-componentdidmount - https://reactjs.org/docs/react-component.html
   
+### https://color.adobe.com/fr/create/image
