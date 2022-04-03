@@ -125,6 +125,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [ANIMATION => https://www.framer.com/docs/introduction/](#animation--httpswwwframercomdocsintroduction)
   - [MATERIAL UI => https://mui.com/components/grid/](#material-ui--httpsmuicomcomponentsgrid)
   - [https://reactjs.org/docs/hooks-effect.html - https://linguinecode.com/post/understanding-react-componentdidmount - https://reactjs.org/docs/react-component.html](#httpsreactjsorgdocshooks-effecthtml---httpslinguinecodecompostunderstanding-react-componentdidmount---httpsreactjsorgdocsreact-componenthtml)
+  - [https://color.adobe.com/fr/create/image](#httpscoloradobecomfrcreateimage)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
